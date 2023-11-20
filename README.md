@@ -1,6 +1,8 @@
 ### Welcome 👋
 
 [![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=natesobeck)](https://github.com/natesobeck/github-readme-stats)
+[![Nate's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natesobeck&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
 
 #### A Little About Me:
 Ever since I was a little kid, I've always loved building things. Every holiday season I'd get excited for another set of complicated legos. I loved the process of seeing your creation come to life. These days, the things that I build may be different but the passion is all the same. As I grew older, I became increasingly interested in tech until I finally decided to dive in and become a software engineer. The passion that I felt as a kid has never dwindled, but now my excitement is directed towards creating intuitive UX designs and robust web applications.
