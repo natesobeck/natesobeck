@@ -1,7 +1,11 @@
-### Hi there 👋
+### Welcome 👋
+
+#### Bio:
 Ever since I was a little kid, I've always loved building things. Every holiday season I'd get excited for another set of complicated legos. I loved the process of seeing your creation come to life. These days, the things that I build may be different but the passion is all the same. As I grew older, I became increasingly interested in tech until I finally decided to dive in and become a software engineer. The passion that I felt as a kid has never dwindled, but now my excitement is directed towards creating intuitive UX designs and robust web applications.
 
 When I'm not coding, you can find me working on my other passions. I am an avid lifting enthusiast, a chess hobbyist, a guitar player and singer, and a big video game fan. I live with my wonderful girlfriend and two cats near Boston, MA.
+
+[![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=natesobeck)](https://github.com/natesobeck/github-readme-stats)
 
 <!--
 **natesobeck/natesobeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
