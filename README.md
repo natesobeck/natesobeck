@@ -11,6 +11,8 @@ When I'm not coding, you can find me working on my other passions. I am an avid 
 
 #### Contact Me: 
 
+[![Email](mailto: nsobeck910@gmail.com)](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
 #### My Skills:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
