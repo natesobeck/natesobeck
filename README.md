@@ -1,5 +1,5 @@
-
-[![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=natesobeck)](https://github.com/natesobeck/github-readme-stats)
+[![Nate's GitHub stats](https://github-readme-stats.verce![IMG_6285](https://github.com/natesobeck/natesobeck/assets/142099926/001f71b1-2643-4f9b-ba32-c7daee078c36)
+l.app/api?username=natesobeck)](https://github.com/natesobeck/github-readme-stats)
 [![Nate's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natesobeck)](https://github.com/anuraghazra/github-readme-stats)
 
 
