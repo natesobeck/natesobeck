@@ -1,7 +1,6 @@
-### Welcome 👋
 
 [![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=natesobeck)](https://github.com/natesobeck/github-readme-stats)
-[![Nate's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natesobeck&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Nate's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natesobeck)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #### A Little About Me:
